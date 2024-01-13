@@ -1,4 +1,6 @@
-# gym
+# Gym Fit - Academia 
+![Gym](https://github.com/flavio17/gym/assets/31322073/40ce05c7-31a3-415f-a940-8a4925f7439b)
+
 Projeto Gym Fit - Academia 
 ## 📚 Descrição
 <hr />
