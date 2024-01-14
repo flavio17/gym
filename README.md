@@ -16,6 +16,8 @@ O projeto da academia Gym Fit
 ## 🎨 Ferramenta de Layout
 - Figma
 ---
+## Contribuindo 
+Aceitamos contribuições! Se deseja contribuir para melhorar o desenvolvimento do site, se encontrar problemas ou tiver sugestões de melhorias, por favor, entre em contato!
 
  ## 📝 Entre em contato
   - Email: flavio17_canarana@hotmail.com
