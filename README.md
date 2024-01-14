@@ -3,6 +3,7 @@
 
 Projeto Gym Fit - Academia 
 ## 📚 Descrição
+O site da Gym Fit é projetado para proporcionar aos usuários uma experiência informativa e envolvente. Ele inclui detalhes sobre os serviços oferecidos, horários de aulas, informações de contato e muito mais. Este README fornece orientações sobre como configurar o ambiente de desenvolvimento, executar o projeto e contribuir para seu desenvolvimento contínuo.
 <hr />
 O projeto da academia Gym Fit
 
